@@ -1,7 +1,7 @@
 <img align="right" height="590em" src="https://github.com/Yatobuz/yatobuz/assets/51001791/b982f953-dd58-4e90-a4d8-9e56abb0b98c" />
 <h1 align="left"> 💻 Hello , i'm Eduardo Silva </h1>
 
-- Junior analyst production & back end developer focused on focused on continuous improvements in the production environment
+- Junior analyst production & back end developer  focused on continuous improvements in the production environment
 - actuality i'm study kubernetes and cloud resorces
 - my favorite language is Python
 <h2></h2>
