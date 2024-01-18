@@ -6,7 +6,7 @@
 &nbsp;
 
 ## Skils
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22y4jxiqs3atvfgvu56wfwwii&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <img align="right" height="590em" src="https://github.com/Yatobuz/yatobuz/assets/51001791/b982f953-dd58-4e90-a4d8-9e56abb0b98c" />
 
 
