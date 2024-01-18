@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://github.com/Yatobuz/yatobuz/assets/51001791/b982f953-dd58-4e90-a4d8-9e56abb0b98c" />
-<h1 align="left"> 💻 Hello , i'm Eduardo Silva </h1>
+<h1 align="left"> :small_blue_diamond:Hello, i'm Eduardo Silva </h1>
 
 - Junior analyst production & back end developer  focused on continuous improvements in the production environment
 - actuality i'm study kubernetes and cloud resorces
@@ -8,9 +8,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22y4jxiqs3atvfgvu56wfwwii&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-### About me
-
-
+### :small_blue_diamond: Social
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/yatobuz)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardosilva12/)
 
 </details>
 <h3 align="left">Languages and Tools:</h3>
