@@ -22,7 +22,6 @@
 #### Studying in this moment:
 ![Kubernetes](https://img.shields.io/badge/kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
-![django](https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-
+![Apache Kafka](https://img.shields.io/badge/kafka-000?style=for-the-badge&logo=apachekafka)
 &nbsp;
 
