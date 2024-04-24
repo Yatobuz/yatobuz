@@ -12,7 +12,6 @@
 #### Stacks
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-000000.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 
 #### Workspace
@@ -23,5 +22,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![Apache Kafka](https://img.shields.io/badge/kafka-000?style=for-the-badge&logo=apachekafka)
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
+
 &nbsp;
 
