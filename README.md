@@ -16,8 +16,8 @@
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 
 #### Workspace
-![UNIX](https://img.shields.io/badge/unix-000000?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
-![VSCODE](https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=vscode&logoColor=black)
+![UNIX](https://img.shields.io/badge/ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![vscode](https://img.shields.io/badge/Vscode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 #### Studying in this moment:
 ![Kubernetes](https://img.shields.io/badge/kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
