@@ -26,3 +26,4 @@
 
 &nbsp;
 
+<p align="left"> <i>Even someone like me can have a purpose in life.</i></p>
