@@ -23,6 +23,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![Apache Kafka](https://img.shields.io/badge/kafka-000?style=for-the-badge&logo=apachekafka)
+![Golang](https://img.shields.io/badge/golang-000?style=for-the-badge&logo=go&logoColor=white)
 
 
 &nbsp;
