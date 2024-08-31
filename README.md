@@ -28,6 +28,5 @@
 
 &nbsp;
 
-credit for artist:
-https://www.deviantart.com/hannab1503
+<i>credit for artist: @hannab1503</i>
 
